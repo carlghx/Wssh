@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--This file represents the results of running a test suite-->
+<test-results name="C:\Users\cmorita\Desktop\Wssh 03302012\WsshTest\bin\Debug\WsshTest.dll" total="94" errors="0" failures="0" not-run="0" inconclusive="0" ignored="0" skipped="0" invalid="0" date="2012-04-02" time="17:31:47">
+  <environment nunit-version="2.6.0.12051" clr-version="2.0.50727.4963" os-version="Microsoft Windows NT 6.1.7600.0" platform="Win32NT" cwd="C:\Users\cmorita\Desktop\Wssh 03302012\WsshTest\bin\Debug" machine-name="HLHL07R9EW6H8" user="cmorita" user-domain="MRISOFTWARE" />
+  <culture-info current-culture="en-US" current-uiculture="en-US" />
+  <test-suite type="Assembly" name="C:\Users\cmorita\Desktop\Wssh 03302012\WsshTest\bin\Debug\WsshTest.dll" executed="True" result="Success" success="True" time="2.902" asserts="0">
+    <results>
+      <test-suite type="Namespace" name="WsshTest" executed="True" result="Success" success="True" time="2.886" asserts="0">
+        <results>
+          <test-suite type="TestFixture" name="TestEnemyCast" description="Tests relating to enemy buffs and abilities" executed="True" result="Success" success="True" time="2.574" asserts="0">
+            <results>
+              <test-case name="WsshTest.TestEnemyCast.TestDelayRange" executed="True" result="Success" success="True" time="0.764" asserts="2" />
+              <test-case name="WsshTest.TestEnemyCast.TestEnemyDamageMultiplier" executed="True" result="Success" success="True" time="0.016" asserts="3" />
+              <test-case name="WsshTest.TestEnemyCast.TestFrenzy" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestEnemyCast.TestImpaleHit" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestEnemyCast.TestImpaleTick" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestEnemyCast.TestMeleeHit" executed="True" result="Success" success="True" time="0.016" asserts="3" />
+              <test-case name="WsshTest.TestEnemyCast.TestMeleeMiss" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestEnemyCast.TestMeleeWithFrenzy" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="WsshTest.TestEnemyCast.TestSmash" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestEnemyCast.TestSWD" executed="True" result="Success" success="True" time="0.016" asserts="2" />
+              <test-case name="WsshTest.TestEnemyCast.TestSWDThreshold" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestEnemyCast.TestVampiricEmbrace" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestEnemyCast.TestVolley" executed="True" result="Success" success="True" time="0.000" asserts="10" />
+              <test-case name="WsshTest.TestEnemyCast.TestWhirlwind" executed="True" result="Success" success="True" time="0.016" asserts="4" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TestGameInit" description="Tests relating to game initialization" executed="True" result="Success" success="True" time="0.078" asserts="0">
+            <results>
+              <test-case name="WsshTest.TestGameInit.TestConsole" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestEnemy" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestEnemySpellbookFrenzy" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestEnemySpellbookImpale" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestEnemySpellbookMelee" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestEnemySpellbookSmash" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestEnemySpellbookSWD" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestEnemySpellbookVolley" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestEnemySpellbookWhirlwind" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestInitOOMUI" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestLastCastUI" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestLastTick" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPartyMage" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPartyPaladin" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPartyPriest" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPartyRogue" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPartyWarrior" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPlayerCastHandler" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPlayerCastUI" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPlayerFrameUI" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPlayerHolyUI" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPlayerManaCurrent" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPlayerManaMax" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestPlayerManaUI" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestSpellbookAvengingWrath" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestSpellbookBeaconOfLight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestSpellbookDivineLight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestSpellbookDivinePlea" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestSpellbookFlashOfLight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestSpellbookHolyLight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestSpellbookHolyShock" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestSpellbookJudgment" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestSpellbookLightOfDawn" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestGameInit.TestSpellbookWordOfGlory" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TestPlayerCast" description="Tests relating to player buffs and abilities" executed="True" result="Success" success="True" time="0.156" asserts="0">
+            <results>
+              <test-case name="WsshTest.TestPlayerCast.TestAvengingWrath" executed="True" result="Success" success="True" time="0.016" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestAvengingWrathBonus" executed="True" result="Success" success="True" time="0.016" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestBeaconOfLight" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestPlayerCast.TestBeaconOfLightHeal" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestPlayerCast.TestConviction" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestConvictionBonus" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestCrit" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestDaybreakConsume" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestPlayerCast.TestDaybreakDivineLight" executed="True" result="Success" success="True" time="0.016" asserts="1" />
+              <test-case name="WsshTest.TestPlayerCast.TestDaybreakFlashOfLight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestPlayerCast.TestDaybreakHolyLight" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestPlayerCast.TestDivineLight" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestDivinePlea" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestDivinePleaPenalty" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestDivinePleaTick" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestPlayerCast.TestFlashOfLight" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestGCD" executed="True" result="Success" success="True" time="0.000" asserts="9" />
+              <test-case name="WsshTest.TestPlayerCast.TestHolyLight" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestHolyShock" executed="True" result="Success" success="True" time="0.000" asserts="4" />
+              <test-case name="WsshTest.TestPlayerCast.TestIlluminatedHealing" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestInfusion" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestPlayerCast.TestJudgment" executed="True" result="Success" success="True" time="0.000" asserts="3" />
+              <test-case name="WsshTest.TestPlayerCast.TestLastWord" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestPlayerCast.TestLightOfDawn" executed="True" result="Success" success="True" time="0.000" asserts="24" />
+              <test-case name="WsshTest.TestPlayerCast.TestProtectorOfTheInnocent" executed="True" result="Success" success="True" time="0.016" asserts="2" />
+              <test-case name="WsshTest.TestPlayerCast.TestWordOfGlory" executed="True" result="Success" success="True" time="0.000" asserts="8" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TestProfile" description="Tests relating to game settings" executed="True" result="Success" success="True" time="0.031" asserts="0">
+            <results>
+              <test-case name="WsshTest.TestProfile.TestDefaultKeys" executed="True" result="Success" success="True" time="0.000" asserts="11" />
+              <test-case name="WsshTest.TestProfile.TestEnemySettings" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestProfile.TestModifyProfile" executed="True" result="Success" success="True" time="0.000" asserts="16" />
+              <test-case name="WsshTest.TestProfile.TestPlayerSettings" executed="True" result="Success" success="True" time="0.000" asserts="5" />
+            </results>
+          </test-suite>
+          <test-suite type="TestFixture" name="TestUserInput" description="Tests relating to button and key presses" executed="True" result="Success" success="True" time="0.031" asserts="0">
+            <results>
+              <test-case name="WsshTest.TestUserInput.TestCancel" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+              <test-case name="WsshTest.TestUserInput.TestKeyAvengingWrath" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestKeyBeaconOfLight" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestKeyDivinePlea" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestKeyFlashOfLight" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestKeyHolyLight" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestKeyJudgment" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestKeyLeftCtrl" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestKeyLeftShift" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestKeyLightOfDawn" executed="True" result="Success" success="True" time="0.016" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestKeyRightCtrl" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestKeyRightShift" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestKeyWordOfGlory" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestQueueing" executed="True" result="Success" success="True" time="0.000" asserts="2" />
+              <test-case name="WsshTest.TestUserInput.TestStartCombat" executed="True" result="Success" success="True" time="0.000" asserts="5" />
+              <test-case name="WsshTest.TestUserInput.TestStopCombat" executed="True" result="Success" success="True" time="0.000" asserts="1" />
+            </results>
+          </test-suite>
+        </results>
+      </test-suite>
+    </results>
+  </test-suite>
+</test-results>

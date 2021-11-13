@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisualState xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" ShowCheckBoxes="false">
+  <TopNode>[0-1099]C:\Users\cmorita\Desktop\Wssh 03302012\WsshTest\bin\Debug\WsshTest.dll</TopNode>
+  <SelectedNode>[0-1099]C:\Users\cmorita\Desktop\Wssh 03302012\WsshTest\bin\Debug\WsshTest.dll</SelectedNode>
+  <ExcludeCategories>false</ExcludeCategories>
+  <Nodes>
+    <Node UniqueName="[0-1099]C:\Users\cmorita\Desktop\Wssh 03302012\WsshTest\bin\Debug\WsshTest.dll" Expanded="true" />
+    <Node UniqueName="[0-1100]WsshTest" Expanded="true" />
+  </Nodes>
+</VisualState>

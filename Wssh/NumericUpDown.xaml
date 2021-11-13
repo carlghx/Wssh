@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="Wssh.NumericUpDown"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Width="75" Height="24">
+  <StackPanel Orientation="Horizontal">
+    <TextBox x:Name="box" Width="55" MouseWheel="box_MouseWheel" TextAlignment="Right" Height="24" LostFocus="box_LostFocus"></TextBox>
+    <StackPanel x:Name="stkButtons" Orientation="Vertical" Width="20">
+      <Button x:Name="btnUp" FontFamily="Marlett" FontSize="10" FontWeight="Bold" Width="20" Height="12" Click="btnUp_Click">5</Button>
+      <Button x:Name="btnDown" FontFamily="Marlett" FontSize="9" Width="20" FontWeight="Bold" Height="12" Click="btnDown_Click">6</Button>
+    </StackPanel>
+  </StackPanel>
+</UserControl>

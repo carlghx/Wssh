@@ -1,0 +1,4 @@
+System.NullReferenceException: Object reference not set to an instance of an object.
+   at Wssh.Entities.Profile.LoadProfileFromGame(Profile p, GameState game) in C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\Entities\Profile.cs:line 109
+   at Wssh.SettingsWindow..ctor(GameState game) in C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\SettingsWindow.xaml.cs:line 61
+   at Wssh.MainWindow.btnSettings_Click(Object sender, RoutedEventArgs e) in C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\MainWindow.xaml.cs:line 177

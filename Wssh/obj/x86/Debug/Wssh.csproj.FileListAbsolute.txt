@@ -1,0 +1,164 @@
+C:\Wssh\Wssh\bin\Debug\Wssh.exe
+C:\Wssh\Wssh\bin\Debug\Wssh.pdb
+C:\Wssh\Wssh\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Wssh\Wssh\obj\x86\Debug\CombatLog.baml
+C:\Wssh\Wssh\obj\x86\Debug\DisplayBar.baml
+C:\Wssh\Wssh\obj\x86\Debug\SettingsWindow.baml
+C:\Wssh\Wssh\obj\x86\Debug\CombatLog.g.cs
+C:\Wssh\Wssh\obj\x86\Debug\DisplayBar.g.cs
+C:\Wssh\Wssh\obj\x86\Debug\MainWindow.g.cs
+C:\Wssh\Wssh\obj\x86\Debug\SettingsWindow.g.cs
+C:\Wssh\Wssh\obj\x86\Debug\SpellButton.g.cs
+C:\Wssh\Wssh\obj\x86\Debug\App.g.cs
+C:\Wssh\Wssh\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Wssh\Wssh\obj\x86\Debug\Wssh_MarkupCompile.cache
+C:\Wssh\Wssh\obj\x86\Debug\Wssh_MarkupCompile.lref
+C:\Wssh\Wssh\obj\x86\Debug\MainWindow.baml
+C:\Wssh\Wssh\obj\x86\Debug\SpellButton.baml
+C:\Wssh\Wssh\obj\x86\Debug\Wssh.g.resources
+C:\Wssh\Wssh\obj\x86\Debug\Wssh.Properties.Resources.resources
+C:\Wssh\Wssh\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Wssh\Wssh\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Wssh\Wssh\obj\x86\Debug\Wssh.exe
+C:\Wssh\Wssh\obj\x86\Debug\Wssh.pdb
+C:\Wssh\Wssh\obj\x86\Debug\NumericUpDown.baml
+C:\Wssh\Wssh\obj\x86\Debug\NumericUpDown.g.cs
+C:\Wssh\Wssh\obj\x86\Debug\HotkeyBox.baml
+C:\Wssh\Wssh\obj\x86\Debug\HotkeyBox.g.cs
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\Wssh.exe
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\Wssh.pdb
+C:\Users\cmorita\Desktop\Wssh\bin\Debug\Wssh.exe
+C:\Users\cmorita\Desktop\Wssh\bin\Debug\Wssh.pdb
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\CombatLog.baml
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\HotkeyBox.baml
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\NumericUpDown.baml
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\CombatLog.g.cs
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\HotkeyBox.g.cs
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\DisplayBar.g.cs
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\NumericUpDown.g.cs
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\SettingsWindow.g.cs
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\SpellButton.g.cs
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\App.g.cs
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\Wssh_MarkupCompile.cache
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\Wssh_MarkupCompile.lref
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\DisplayBar.baml
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\MainWindow.baml
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\SettingsWindow.baml
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\SpellButton.baml
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\Wssh.g.resources
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\Wssh.Properties.Resources.resources
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cmorita\Desktop\Wssh\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\Wssh.exe
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\Wssh.pdb
+C:\Users\cmorita\Desktop\Wssh 02272012\bin\Debug\Wssh.exe
+C:\Users\cmorita\Desktop\Wssh 02272012\bin\Debug\Wssh.pdb
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\CombatLog.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\HotkeyBox.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\NumericUpDown.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\CombatLog.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\HotkeyBox.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\DisplayBar.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\NumericUpDown.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\SettingsWindow.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\SpellButton.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\App.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\Wssh_MarkupCompile.cache
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\Wssh_MarkupCompile.lref
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\DisplayBar.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\MainWindow.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\SettingsWindow.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\SpellButton.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\Wssh.g.resources
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\Wssh.Properties.Resources.resources
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cmorita\Desktop\Wssh 02272012\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\Wssh.exe
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\Wssh.pdb
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\bin\Debug\Wssh.exe
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\bin\Debug\Wssh.pdb
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\CombatLog.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\HotkeyBox.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\NumericUpDown.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\CombatLog.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\HotkeyBox.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\DisplayBar.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\NumericUpDown.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\SettingsWindow.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\SpellButton.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\App.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\Wssh_MarkupCompile.cache
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\Wssh_MarkupCompile.lref
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\DisplayBar.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\MainWindow.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\SettingsWindow.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\SpellButton.baml
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\Wssh.g.resources
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\Wssh.Properties.Resources.resources
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cmorita\Desktop\Wssh 02272012\Wssh\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\Wssh.exe
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\Wssh.pdb
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\bin\Debug\Wssh.exe
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\bin\Debug\Wssh.pdb
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\CombatLog.baml
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\HotkeyBox.baml
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\NumericUpDown.baml
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\CombatLog.g.cs
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\HotkeyBox.g.cs
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\DisplayBar.g.cs
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\NumericUpDown.g.cs
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\SettingsWindow.g.cs
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\SpellButton.g.cs
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\App.g.cs
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\Wssh_MarkupCompile.cache
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\Wssh_MarkupCompile.lref
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\DisplayBar.baml
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\MainWindow.baml
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\SettingsWindow.baml
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\SpellButton.baml
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\Wssh.g.resources
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\Wssh.Properties.Resources.resources
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cmorita\Desktop\Wssh 03142012\Wssh\bin\Debug\Wssh.exe.config
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\bin\Debug\Wssh.exe.config
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\bin\Debug\Wssh.exe
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\bin\Debug\Wssh.pdb
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\CombatLog.baml
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\HotkeyBox.baml
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\NumericUpDown.baml
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\CombatLog.g.cs
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\HotkeyBox.g.cs
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\DisplayBar.g.cs
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\MainWindow.g.cs
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\NumericUpDown.g.cs
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\SettingsWindow.g.cs
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\SpellButton.g.cs
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\App.g.cs
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\Wssh_MarkupCompile.cache
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\Wssh_MarkupCompile.lref
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\DisplayBar.baml
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\MainWindow.baml
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\SettingsWindow.baml
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\SpellButton.baml
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\Wssh.g.resources
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\Wssh.Properties.Resources.resources
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\Wssh.exe
+C:\Users\cmorita\Desktop\Wssh 03302012\Wssh\obj\x86\Debug\Wssh.pdb

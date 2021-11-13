@@ -1,0 +1,24 @@
+﻿<UserControl x:Class="Wssh.DisplayBar"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             xmlns:converter="clr-namespace:Wssh.Converters"
+             mc:Ignorable="d" 
+             d:DesignHeight="{Binding Height}" d:DesignWidth="{Binding Width}">
+  <UserControl.Resources>
+    <converter:ScaleDown x:Key="ConvertWidthToWidthOffset"></converter:ScaleDown>
+    <sys:Double x:Key="IconWidth">30</sys:Double>
+  </UserControl.Resources>
+  <Grid>
+    <Border x:Name="barBorder" Canvas.Left="0" Width="{Binding Width}" Height="{Binding Height}" BorderBrush="{Binding ColorBrush}" BorderThickness="2">
+      <Canvas x:Name="canvas">
+        <Rectangle x:Name="barFill" Canvas.Left="0" HorizontalAlignment="Left" Width="{Binding FillWidth, Mode=TwoWay}" Height="{Binding HeightInternal}" Stroke="{Binding ColorBrush}" Fill="{Binding ColorBrush}"></Rectangle>
+        <TextBlock x:Name="barLabel" Canvas.Left="0" TextAlignment="Center"  HorizontalAlignment="Center" Width="{Binding Width}" Text="{Binding DisplayLabel}"></TextBlock>
+        <Image x:Name="imgStatusDebuff" Canvas.Left="0" HorizontalAlignment="Left" Width="{StaticResource IconWidth}" Height="{StaticResource IconWidth}" Source="{Binding StatusDebuff}"></Image>
+        <Image x:Name="imgStatusBuff" Canvas.Left="{Binding Width, Converter={StaticResource ConvertWidthToWidthOffset}}" HorizontalAlignment="Right" Width="{StaticResource IconWidth}" Height="{StaticResource IconWidth}" Source="{Binding StatusBuff}"></Image>
+      </Canvas>
+    </Border>
+  </Grid>
+</UserControl>
